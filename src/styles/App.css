@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.auth {
+display: flex;
+  flex-direction: column;
+  margin: 15px;
+  padding: 15px;
+
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  background: aliceblue;
+}
+
+.app {
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+  background: aquamarine;
+align-items: center;
+  justify-content: center;
+}
+
+.posts {
+  display: flex;
+  border: 3px solid darkviolet;
+  margin: 5px;
+  padding: 15px;
+  justify-content: center;
+
+}
+.title {
+
+  font-size: large;
+  font-weight: bold;
+}
+
+.auth-enter {
+text-align: right;
+
+}
+
+.posts-btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px dashed black;
+  margin: 10px;
+}

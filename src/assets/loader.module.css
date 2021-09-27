@@ -1,0 +1,6 @@
+.load {
+    border-radius: 50%;
+    border: 10px dashed teal;
+    width: 100px;
+    height: 100px;
+}
