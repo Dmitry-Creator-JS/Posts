@@ -14,8 +14,8 @@ const News = () => {
                 <div className="placeholder">
                     <div className="item" draggable="true">Перетащи меня</div>
                 </div>
-                <div className="placeholder"> </div>
-                <div className="placeholder"> </div>
+                <div className="placeholder"></div>
+                <div className="placeholder"></div>
             </div>
 
         </div>
